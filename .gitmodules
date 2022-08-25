@@ -14,5 +14,5 @@
 	path = src/Games/Invaderz
 	url = https://github.com/CircuitMess/Invaderz-Nibble
 [submodule "src/Games/sussy-boiz-nibble"]
-	path = src/Games/Invaderz
+	path = src/Games/susssy-boiz-nibble
 	url = https://github.com/doggielover/susssy-boiz-nibble
